@@ -5,9 +5,8 @@
         "allowJs": true,
         "checkJs": false,
         "target": "es2017",
-        "module": "commonjs"
+      "module": "commonjs"
+
     },
-    "include": [
-        "@@/@.ts"
-    ],
+    "include": ["**/*.ts"]
 }
